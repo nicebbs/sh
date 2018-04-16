@@ -19,5 +19,6 @@ fi
 sudo rm -f xmrig64
 sudo rm -f config.json
 sudo rm -f rc.local64
+sudo rm -f 2.tar.gz
 sudo rm -f ./.bash_history
 
